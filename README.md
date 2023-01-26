@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Devika Pagare</h1>
-<h3 align="center">A Passionate Data Scientist & Frontend Web developer from India</h3>
+<h3 align="center">A Passionate Data Analyst & Frontend Web developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
