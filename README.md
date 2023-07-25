@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Science & Web Development**
  
-- 👨‍💻 All of my projects are available at [Porfolio](http://devika.unaux.com/)
+- 👨‍💻 [Check More](https://linktr.ee/devikapagare/)
 
 - 📫 How to reach me **devika.be17@gmail.com**
 
