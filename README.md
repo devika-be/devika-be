@@ -14,8 +14,9 @@
 **devika-be/devika-be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div align="center">
+🔭 I’m currently working on **AI | Machine learning | Deep learning | Data science | Python**
   
-🌱 I’m currently learning **Data Visualization, Numpy, Pandas, Data Science**
+🌱 I’m currently learning **Docker, SSIS**
 
 💬 Ask me about **Data Science & Web Development**
 
